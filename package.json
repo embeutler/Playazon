@@ -1,22 +1,22 @@
 {
-    "name": "12-bamazon",
+    "name": "Playazon",
     "version": "1.0.0",
-    "description": "Bamazon",
-    "main": "bamazonCustomer.js",
+    "description": "Bamazon-Homework",
+    "main": "store.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Sidetrack-CA/12-bamazon.git"
+      "url": "git+https://github.com/embeutler/Playazon.gt"
     },
-    "keywords": [],
-    "author": "",
+    "keywords": [mySql, node.js, npm],
+    "author": "EmDBad",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Sidetrack-CA/12-bamazon/issues"
+      "url": "https://github.com/embeutler/Playazon/issues"
     },
-    "homepage": "https://github.com/Sidetrack-CA/12-bamazon#readme",
+    "homepage": "https://github.com/embeutler/Playazon#readme",
     "dependencies": {
       "inquirer": "^6.3.1",
       "mysql": "^2.17.1"
